@@ -7,3 +7,5 @@ Clone this repository and run the script:
 ```bash
 git clone https://github.com/37felix-au/python-todo-list.git
 ```
+
+*Initialized by backend-dev-20 workspace automation.*
